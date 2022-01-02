@@ -1,0 +1,84 @@
+1. Automaty a jazyky
+Chomského hierarchie
+třídy automatů a gramatik
+determinismus a nedeterminismus
+Uzávěrové vlastnosti tříd jazyků
+
+2. Algoritmy a datové struktury
+Časová složitost algoritmů
+složitost v nejhorším a průměrném případě
+Třídy složitosti P a NP
+NP P převoditelnost
+NP-úplnost
+Metoda „rozděl a panuj" - aplikace a analýza
+složitosti, dynamické programování
+Binární vyhledávací stromy
+vyvažování
+haldy.
+Hašování
+Sekvenční třídění
+porovnávací algoritmy
+přihrádkové třídění
+třídící sítě.
+Grafové algoritmy - prohledávání do hloubky a do šířky, souvislost, silná souvislost v orientovaných grafech, 
+topologické třídění, 
+nejkratší cesta, 
+kostra grafu, 
+toky v sítích. 
+Tranzitivní uzávěr. 
+Algoritmy vyhledávání v textu. 
+Algebraické algoritmy - DFT,
+Euklidův algoritmus
+RSA - one way 
+Aproximační algoritmy
+
+3. Databáze
+Architektury databázových systémů. 
+Konceptuální, logická a fyzická úroveň pohledů na data. 
+Algoritmy návrhu schémat relací, normální formy, referenční integrita.
+Transakční zpracování, vlastnosti transakcí, uzamykací protokoly, zablokování. 
+ERdiagramy, metody návrhů IS. 
+Přehled SQL.
+
+4. Programovací jazyky
+Principy implementace objektově orientovaných jazyků, běhová podpora. 
+Oddělený překlad, sestavení, řízení překladu. 
+Pojmy a principy objektového návrhu. 
+Generické programování a knihovny šablony a generika, kompilační polymorfismus. 
+Neprocedurální programování.
+
+5. Architektura počítačů a operačních systémů
+Architektury počítače. 
+Procesory, multiprocesory. 
+Sběrnice, protokoly. 
+Vstupní a výstupní zařízení. 
+Architektury OS. 
+Vztah OS a HW, obsluha přerušení. 
+Procesy, vlákna, plánování. 
+Synchronizační primitiva, vzájemné vyloučení. 
+Zablokování
+a zotavení z něj. Organizace paměti, alokační algoritmy. Principy virtuální paměti,
+stránkování, algoritmy pro výměnu stránek, výpadek stránky, stránkovací tabulky.
+Systémy souborů, adresářové struktury.
+6. Základy sítí
+Taxonomie počítačových sítí. Architektura ISO/OSI. Přehled síťového modelu
+TCP/IP. Směrování. Koncept adresy, portu, socketu. Architektura klient/server.
+Základy fungování protokolů HTTP, FTP a SMTP.
+7. Optimalizační metody
+Mnohostěny, Minkowského-Weylova věta. Základy lineárního programování, věty
+o dualitě, metody řešení. Edmondsův algoritmus. Celočíselné programování.
+
+8. Pro zaměření Algoritmy a optimalizace
+Aproximační algoritmy pro kombinatorické problémy (splnitelnost, nezávislé množiny, množinové pokrytí, rozvrhování). Použití lineárního programování pro aproximační algoritmy. Využití pravděpodobnosti při návrhu algoritmů. Voroného diagramy,
+aranžmá (komplexy) nadrovin, incidence bodů a přímek, základní algoritmy výpočetní
+geometrie. Samoopravné kódy. Pravděpodobnostní metoda - příklady použití.
+
+8. Pro zaměření Diskrétní modely a struktury
+Množiny a zobrazení. Subvalence a ekvivalence množin. Dobré uspořádání. Axiom
+výběru (Zermelova věta, Zornovo lemma). Barvení grafů (Brooksova a Vizingova věta).
+Tutteova věta. Extremální kombinatorika (Ramseyovy věty, Erdös-Ko-Radoova věta).
+Samoopravné kódy. Pravděpodobnostní metoda - příklady použití.
+
+8. Pro zaměření Matematická lingvistika
+Formální jazyky a automaty, základní formalismy pro popis přirozených jazyků,
+morfologická, syntaktická a sémantická analýza přirozeného jazyka, základy teorie informace, jazykové modelování.
